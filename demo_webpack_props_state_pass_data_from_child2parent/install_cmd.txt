@@ -1,0 +1,79 @@
+  425  npm init
+  426  npm install --save-dev babel-cli babel-preset-es2015 babel-preset-react
+  428  node node_modules/babel-cli/bin/babel.js --presets es2015,react --watch src --out-dir dist
+  429  npm init
+  430  npm ls -g --depth=0
+  431  npm install --save react react-dom
+  432  npm install --save-dev babel-core babel-loader babel-preset-es2015 babel-preset-react webpack webpack-dev-server 
+  433  npm ls -g --depth=0
+  434  npm start
+  435  npm start
+  436  \clear;2A
+  437  npm start
+  438  npm i -D webpack-cli
+  439  npm start
+  440  npm start
+  441  npm start
+  442  npm install --save-dev @babel/core
+  443  npm ls -g --depth=0
+  444  npm start
+  445  npm uninstall babel-core
+  446  npm start
+  448  npm install
+  449  npm start
+  450  npm start
+  451  npm install react react-dom
+  452  npm start
+  453  clear
+  454  npm start
+  455  npm start
+  456  npm start
+  457  npm start
+  458  npm start
+  459  npm start
+  460  npm start
+  461  npm start
+  462  npm start
+  463  npm start
+  464  npm start
+  465  npm start
+  466  npm start
+  467  '
+  468  '
+  469  clear
+  470  npm start
+  471  history
+  472  npm install --save-dev @babel/preset-es2015
+  473  npm install --save-dev @babel/preset-react
+  474  npm uninstall babel-preset-es2015
+  475  npm uninstall babel-preset-react
+  476  npm start
+  477  clear
+  478  npm start
+  479  npm install --save-dev @babel/preset-env
+  480  npm start
+  481  npm start
+  482  clear
+  483  npm start
+  484  npm start
+  485  cd demo_webpack/
+  486  npm start
+  487  npm list -g --depth 0
+  488  npm list --depth 0
+  489  tsc
+  490  npm ls -g --depth=0
+  491  deno
+  492  deno --version
+  493  npm uninstall typescript@3.9.5
+  494  deno --version
+  495  tsc
+  496  npm uninstall -g typescript@3.9.5
+  497  npm uninstall -g typescript
+  498  sudo npm uninstall -g typescript
+  499  deno --version
+  500  npm ls -g --depth=0
+  501  npm start
+  502  npm start
+  503  npm start
+  504  history
+  505  history > install_cmd.txt
